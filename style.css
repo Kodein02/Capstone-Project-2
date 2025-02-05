@@ -1,0 +1,23 @@
+
+
+body{
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #222831;
+}
+
+.container{
+    background-color: #EEEEEE;
+    border-radius: 1%
+}
+
+img {
+    border-radius: 5%;
+}
+
+footer, a, li, ul{
+    background-color: #393E46;
+    color: #222831;
+}
